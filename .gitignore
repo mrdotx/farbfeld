@@ -1,0 +1,18 @@
+# path:       /home/klassiker/.local/share/repos/farbfeld/.gitignore
+# author:     klassiker [mrdotx]
+# github:     https://github.com/mrdotx/farbfeld
+# date:       2020-08-31T17:49:37+0200
+
+ff2jpg
+ff2jpg.o
+ff2pam
+ff2pam.o
+ff2png
+ff2png.o
+ff2ppm
+ff2ppm.o
+jpg2ff
+jpg2ff.o
+png2ff
+png2ff.o
+util.o
