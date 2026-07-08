@@ -1,7 +1,7 @@
-# path:   /home/klassiker/.local/share/repos/farbfeld/.gitignore
+# path:   /home/klassiker/Projects/repos/farbfeld/.gitignore
 # author: klassiker [mrdotx]
 # url:    https://github.com/mrdotx/farbfeld
-# date:   2025-08-10T04:41:03+0200
+# date:   2026-07-08T04:55:16+0200
 
 /ff2jpg
 /ff2jpg.o
